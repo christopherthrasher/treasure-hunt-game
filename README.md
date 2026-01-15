@@ -33,8 +33,10 @@ A C++ command-line treasure hunt game built using object-oriented programming pr
 
 ### Build the program
 make
+
 Run the game after successful compilation:
+
 ./treasurehunt
+
 Follow the on-screen prompts to play the game.
-./treasurehunt
-Follow the on-screen prompts to play the game.
+
