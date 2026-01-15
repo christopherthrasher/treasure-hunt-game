@@ -28,16 +28,13 @@ A C++ command-line treasure hunt game built using object-oriented programming pr
 ## How to Build and Run
 
 ### Prerequisites
-- A C++ compiler that supports C++11 or newer (e.g., `g++`)
-- `make` installed
+- A C++ compiler that supports C++11 or newer (e.g., g++)
+- make installed
 
-### Build the Program
-From the project root directory, run:
-```bash
+### Build the program
 make
-
-### Run the Game
-
-After successful compilation, run:
+Run the game after successful compilation:
+./treasurehunt
+Follow the on-screen prompts to play the game.
 ./treasurehunt
 Follow the on-screen prompts to play the game.
